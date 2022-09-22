@@ -1,4 +1,4 @@
-module github.com/tyler-smith/go-bip32
+module github.com/AccumulateNetwork/go-bip32
 
 go 1.15
 
